@@ -25,13 +25,13 @@
 /persist/data/gxfp                                                    u:object_r:gx_fpd_data_file:s0
 
 # Goodix Fingerprint libs
-/system/lib/libfpservice.so                                           u:object_r:gx_fpd_lib_file:s0
-/system/lib/libfpalgorithm.so                                         u:object_r:gx_fpd_lib_file:s0
-/system/lib/libfp_client.so                                           u:object_r:gx_fp_lib_file:s0
-/system/lib/libfphal.so                                               u:object_r:gx_fpd_lib_file:s0
-/system/lib/libfpnav.so                                               u:object_r:gx_fpd_lib_file:s0
-/system/lib64/libfpservice.s                                          u:object_r:gx_fpd_lib_file:s0
-/system/lib64/libfpalgorithm.so                                       u:object_r:gx_fpd_lib_file:s0
-/system/lib64/libfp_client.so                                         u:object_r:gx_fp_lib_file:s0
-/system/lib64/libfphal.so                                             u:object_r:gx_fpd_lib_file:s0
-/system/lib64/libfpnav.so                                             u:object_r:gx_fpd_lib_file:s0
+#/system/lib/libfpservice.so                                           u:object_r:gx_fpd_lib_file:s0
+#/system/lib/libfpalgorithm.so                                         u:object_r:gx_fpd_lib_file:s0
+#/system/lib/libfp_client.so                                           u:object_r:gx_fp_lib_file:s0
+#/system/lib/libfphal.so                                               u:object_r:gx_fpd_lib_file:s0
+#/system/lib/libfpnav.so                                               u:object_r:gx_fpd_lib_file:s0
+#/system/lib64/libfpservice.s                                          u:object_r:gx_fpd_lib_file:s0
+#/system/lib64/libfpalgorithm.so                                       u:object_r:gx_fpd_lib_file:s0
+#/system/lib64/libfp_client.so                                         u:object_r:gx_fp_lib_file:s0
+#/system/lib64/libfphal.so                                             u:object_r:gx_fpd_lib_file:s0
+#/system/lib64/libfpnav.so                                             u:object_r:gx_fpd_lib_file:s0
